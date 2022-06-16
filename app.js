@@ -2,18 +2,18 @@
 const questions = [
   {
     question: 'who is the president of somalia?',
-    a: 'mohamed abdulahi',
-    b: 'hasan ali',
-    c: 'mohamed siyad',
-    d: 'abdirahim',
-    correct: 'a',
+    a: 'Mohamed Abdulahi',
+    b: 'Hasan Ali',
+    c: 'Mohamed Siyad',
+    d: 'Hassan Sheikh Mohamud',
+    correct: 'd',
   },
   {
     question: 'who is the last prophet in islam?',
-    a: 'moses',
-    b: 'jesus',
-    c: 'mohamed',
-    d: 'noah',
+    a: 'Moses AS',
+    b: 'Ibraahiim AS',
+    b: 'Mohamed SCW',
+    d: 'Noah AS',
     correct: 'c',
   },
   {
@@ -28,9 +28,9 @@ const questions = [
     question: 'who is my best friend?',
     a: 'Abdullahi',
     b: 'jelaani',
-    c: 'Abdulqadir',
+    c: 'Faarah',
     d: 'Abdirahim',
-    correct: 'c',
+    correct: 'd',
   },
 ];
 //loading DOM objects.
